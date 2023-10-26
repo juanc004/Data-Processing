@@ -1,4 +1,4 @@
-""# CSV Data Preprocessing Script
+CSV Data Preprocessing Script
 
 ## Overview
 
@@ -34,6 +34,4 @@ This Python script provides a modular approach to read, preprocess, and explore 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-
 [MIT](https://choosealicense.com/licenses/mit/)
-"""
