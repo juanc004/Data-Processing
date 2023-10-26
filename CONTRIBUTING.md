@@ -1,0 +1,3 @@
+# Contributing to CSV Data Preprocessing Script
+...
+Submit a pull request for review.
