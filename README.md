@@ -1,5 +1,3 @@
-#CSV Data Preprocessing Script
-
 ## Overview
 
 This Python script provides a modular approach to read, preprocess, and explore CSV data files. It is particularly useful for data engineers and analysts who are looking to automate and standardize their data preparation steps.
